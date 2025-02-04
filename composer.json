@@ -1,0 +1,12 @@
+{
+    "name": "adam/php-image-to-ico",
+    "require": {
+        "chrisjean/php-ico": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Adam",
+            "email": "thomasadam83@hotmail.com"
+        }
+    ]
+}

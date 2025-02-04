@@ -1,0 +1,66 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "345c696d019ab0265afa3a35c4363247",
+    "packages": [
+        {
+            "name": "chrisjean/php-ico",
+            "version": "1.0.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/chrisbliss18/php-ico.git",
+                "reference": "ccd5c0d56554f3ddcd7a823e695be83e0d1e43b6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/chrisbliss18/php-ico/zipball/ccd5c0d56554f3ddcd7a823e695be83e0d1e43b6",
+                "reference": "ccd5c0d56554f3ddcd7a823e695be83e0d1e43b6",
+                "shasum": ""
+            },
+            "require": {
+                "ext-gd": "*",
+                "php": ">=5.2.4"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "class-php-ico.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Chris Jean",
+                    "homepage": "https://chrisjean.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "An easy-to-use library to generate valid ICO files.",
+            "homepage": "https://github.com/chrisbliss18/php-ico",
+            "keywords": [
+                "favicon",
+                "ico"
+            ],
+            "support": {
+                "issues": "https://github.com/chrisbliss18/php-ico/issues",
+                "source": "https://github.com/chrisbliss18/php-ico"
+            },
+            "time": "2016-09-27T22:00:56+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
